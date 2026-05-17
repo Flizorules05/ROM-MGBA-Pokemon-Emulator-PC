@@ -4,9 +4,9 @@
 
 > **mGBA** — Fast, accurate and lightweight Game Boy Advance emulator optimized for Pokémon games.
 
-[![GitHub Stars](https://img.shields.io/github/stars/Flizorules05/ROM-Pokemon-Emulator-PC?style=flat-square&color=00d4aa)](https://github.com/Flizorules05/ROM-Pokemon-Emulator-PC/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Flizorules05/ROM-Pokemon-Emulator-PC?style=flat-square&color=0099cc)](https://github.com/Flizorules05/ROM-Pokemon-Emulator-PC/network)
-[![Downloads](https://img.shields.io/github/downloads/Flizorules05/ROM-Pokemon-Emulator-PC/total?style=flat-square&color=7c5cbf)](https://github.com/Flizorules05/ROM-Pokemon-Emulator-PC/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC?style=flat-square&color=00d4aa)](https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC?style=flat-square&color=0099cc)](https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC/network)
+[![Downloads](https://img.shields.io/github/downloads/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC/total?style=flat-square&color=7c5cbf)](https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 ## Overview
